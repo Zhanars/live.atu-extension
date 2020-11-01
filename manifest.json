@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Live.atu-extension",
+  "version": "1.1.1.2",
+  "description": "Расширение для сдачи экзамена",
+  "icons": {
+    "128": "128.png",
+    "64": "64.png",
+    "48": "48.png",
+    "32": "32.png",
+    "16": "16.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [ "https://univer.atu.kz/*" ],
+      "js": [ "app.js" ]
+    }
+  ],
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
