@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" serverName="37.228.66.93">
     <serverData>
-      <paths name="Ilias">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="live.atu.kz">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="turniket.atu.kz">
+      <paths name="37.228.66.93">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
